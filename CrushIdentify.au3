@@ -31,7 +31,7 @@ While 1
 			Exit
 		 Case $identify
 			$name = GUICtrlRead($Crushname) ; Read input
-			MsgBox(0,"Crush Identifier","Tên crush của bạn là: " & $name)
+			MsgBox(0,"Crush Identifier","Your Crush's name is: " & $name)
 		 Case $cancel
 			MsgBox(0,"Crush Identifier","Are you sure ? ")
 			Sleep(500)

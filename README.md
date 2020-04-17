@@ -3,5 +3,5 @@ This project based on a VERY INTELLIGENT AL that could identify everyone's crush
 Made with Autoitv3
 Designed by Koda v1
 
-If there is any issue, please feel free to contact me to fix it. Many thanks
-- LMQ
+If there is any issue, please feel free to contact me. Thanks
+
